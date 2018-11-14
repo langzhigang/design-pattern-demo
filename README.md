@@ -32,7 +32,7 @@
 >优化过后，只提供一个安装的方法<br/>
 >![软件安装类](https://github.com/langzhigang/design-pattern-demo/blob/master/src/main/resources/wizard1.png)
 ><br/>
->对于调用方可定是第二种更好，知道的细节更少。
+>对于调用方来说，第二种更好，因为知道的细节更少。
 
 6.开闭原则
 
