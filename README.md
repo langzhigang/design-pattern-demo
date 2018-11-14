@@ -1,6 +1,7 @@
-#设计模式日常学习
+# 设计模式日常学习
 
-#设计模式6大原则
+# 设计模式6大原则
+
 1.单一原则
 
 >一个类应该只有一个引起它变化的原因。
@@ -26,10 +27,10 @@
 
 >一个对象应该对其他对象有最少的了解。
 >例如有一个软件安装类，让你一步一步安装<br/>
->![软件安装类](src\main\resources\wizard.png)
+>![软件安装类](https://github.com/langzhigang/design-pattern-demo/blob/master/src/main/resources/wizard.png)
 ><br/>
 >优化过后，只提供一个安装的方法<br/>
->![软件安装类](src\main\resources\wizard1.png)
+>![软件安装类](https://github.com/langzhigang/design-pattern-demo/blob/master/src/main/resources/wizard1.png)
 ><br/>
 >对于调用方可定是第二种更好，知道的细节更少。
 
